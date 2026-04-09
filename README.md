@@ -23,8 +23,6 @@ This project aims to answer:
 * What genres and ratings are most common?
 * What does this reveal about Netflix’s target audience?
 
-By answering these questions, we can better understand Netflix’s content strategy and how data can support strategic decisions.
-
 ---
 
 ## 📊 Key Questions
@@ -78,30 +76,26 @@ The analysis includes:
 
 ## 🔍 Key Insights
 
-* Netflix has significantly more movies than TV shows, indicating a strategy focused on high-volume content delivery.
-* Content growth accelerated rapidly after 2015, aligning with global expansion.
-* Drama and International Movies dominate the platform, showing a diverse and global content approach.
-* Most content is rated for mature audiences, suggesting a focus on adult viewers.
-* The majority of movies fall within the 80–120 minute duration range.
+* Netflix has significantly more movies than TV shows
+* Content growth accelerated rapidly after 2015
+* Drama and International Movies dominate the platform
+* Most content is rated for mature audiences
+* Movies are typically 80–120 minutes long
 
 ---
 
 ## 💡 Business Insights
 
-* A strong focus on movies allows Netflix to frequently refresh its catalog and attract a wide audience.
-* The rise of international content highlights Netflix’s global expansion strategy.
-* Content ratings indicate that Netflix prioritizes adult and young adult audiences.
-* Data-driven insights like these can help guide content production and acquisition decisions.
+* Netflix focuses on high-volume movie content
+* Strong investment in international content
+* Targets adult and young adult audiences
+* Data-driven insights support content strategy decisions
 
 ---
 
 ## 🔗 View Project Notebook
 
-[![View Notebook](https://img.shields.io/badge/Click%20to%20View-Notebook-blue?style=for-the-badge)](https://github.com/ahmedbalog1995-svg/netflix-data-analysis-project/blob/e66cc6df5c47f137757dd69b2d3b33332f169553/Netflix_Content_Analysis.ipynb)
-
-<!-- Invisible link for recruiters / SEO -->
-
-[ ](https://github.com/ahmedbalog1995-svg/netflix-data-analysis-project/blob/e66cc6df5c47f137757dd69b2d3b33332f169553/Netflix_Content_Analysis.ipynb)
+[![View Notebook](https://img.shields.io/badge/View-Notebook-blue?style=for-the-badge\&logo=github)](https://github.com/ahmedbalog1995-svg/netflix-data-analysis-project/blob/e66cc6df5c47f137757dd69b2d3b33332f169553/Netflix_Content_Analysis.ipynb)
 
 ---
 
@@ -114,6 +108,6 @@ The analysis includes:
 
 ---
 
-## 👩‍💻 Author
+## 👨‍💻 Author
 
 Ahmed Balogun
